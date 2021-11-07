@@ -24,7 +24,7 @@ And another `default` display that elements might have is `display: inline;` whi
 
 Let’s test it on an empty website:
 
-![chrome_CabsEsX25a](C:\Users\Malba\Documents\ShareX\Screenshots\2021-09\chrome_CabsEsX25a.png)
+![img](https://i.ibb.co/6thvrNG/image.png)
 
 **Implementation Time!** 
 
