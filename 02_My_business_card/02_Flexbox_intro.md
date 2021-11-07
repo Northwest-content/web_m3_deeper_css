@@ -84,11 +84,13 @@ Play with flex through [link](https://flexbox.help/)
 
 **02_Use_FlexHelp**
 
+
 ![img](https://lh5.googleusercontent.com/3-5CJFr4utb-zohnwojRlAzOVZFOyDIZ_RDjj3cd4EjVien0QFoNnCPSqu7cSuGoqPFfLwwHPIj6qNIP4stf7cI3ocujP96Wvf4yO9uGqXD9LbZrul0-LHx2mGVvFBgPZdE2WpNZ=s0)
 
 Let's play 
 
 We have 3 items that we want to center
+
 
 ![img](https://lh4.googleusercontent.com/pzItD9nXVsQelv6BKTM6vC9DasiafI8L3pQ8x7MTZRGNFhsGMs6skyI6DTeGOYcD3rQB13lNKtDwTaDH-_EW6COrWJKlORUkdPxCI-2VwivS6xeO2jR1UFKoQAloSl2M7TdwE3jc=s0)
 
@@ -103,6 +105,7 @@ We have 3 items that we want to center
 
 Just by viewing and playing with the rules we can see that our `container` will be getting this, let's test it out
 
+
 ![img](https://lh3.googleusercontent.com/_RaMBFpr1q_KZZTGxpMwu12V4tC0j_RQy__UxEoJtrmMet_yC1pwX5v3GJjtKLIwHciOJw6dJVzuqy5mZ1SMExe0a_m8gAcmcPzVy2IK_sA_Ch6yxO9girjx1R6i3smqjpkoieWA=s0)
 
 **❓ Question:** 
@@ -114,6 +117,7 @@ Just by viewing and playing with the rules we can see that our `container` will 
 > because the height of the container is not higher to be able to see the centering 
 
 **Fixing:** 
+
 
 ![img](https://lh4.googleusercontent.com/oaJt1LC5xxvzTTbuAI2dytEsH25SLTDVb-jEW-X9fMwhMxAIjLOVe5Oz0rEMRl28tUP_492q_Fh8R3npS-u_9xfAfcqlUqtB5HsMMjIjEjxglytm-QPxVChvbFMpXWOIASFMqKXB=s0)
 
