@@ -12,7 +12,7 @@ Let us implement what we learned to put our business card in the middle as a sim
 
 4. `align-items` to `center`
 
-   ![img](https://lh6.googleusercontent.com/Ds1_VmH_24X5CvPvLuraSdX66UWxd3tqwfuXFN2WFH2qz-83cJsDeRiH7EMQBmyEV6xH0Ot170Zs0OfCH95mDgGNPxxNcsUMGofwjtMQQt67If8nn4vvVdQmTm_4NL40Eazsr2qe=s0)
+![img](https://lh6.googleusercontent.com/Ds1_VmH_24X5CvPvLuraSdX66UWxd3tqwfuXFN2WFH2qz-83cJsDeRiH7EMQBmyEV6xH0Ot170Zs0OfCH95mDgGNPxxNcsUMGofwjtMQQt67If8nn4vvVdQmTm_4NL40Eazsr2qe=s0)
 
    
 
@@ -25,6 +25,7 @@ Let us implement what we learned to put our business card in the middle as a sim
 **⚠ Quick Fix:**
 
 > Lets edit the `container` height: 
+
 
 ![img](https://lh5.googleusercontent.com/9MqGMujLBqHXInK2C32qJeHrgm9zcLKbNH1g1ObJ7G4lGlbzt6a8Nz_bcuoNahahQZMzZnKQ0_CYMl7krIoVGLoESnrdOSLtPw3-olfM2h46gQn7ECymBHdN0wHs4chVpG6dPRWw=s0)
 
