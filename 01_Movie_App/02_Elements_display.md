@@ -24,7 +24,7 @@ And another `default` display that elements might have is `display: inline;` whi
 
 Let’s test it on an empty website:
 
-![img](https://i.ibb.co/6thvrNG/image.png =100x20)
+![image](https://user-images.githubusercontent.com/64236332/140654820-bf1094a0-1f15-4481-ab85-3422836a5254.png)
 
 **Implementation Time!** 
 
