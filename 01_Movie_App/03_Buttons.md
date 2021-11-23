@@ -16,14 +16,12 @@ Let us add buttons under each movie to show the rating from the [IMDB](https://w
 
 4. Test them
 
-
 ![img](https://lh6.googleusercontent.com/PTjo9VuQcK2RMlkbFTflp0qlV25J9Hg8Ck-RLXGAaH3s85MlQpd7gmHMAxHCkcFVADdFGOmTW7T_JpRVmIabGj4ZtOdJAn0E0kTrcr_VIrjLtrnQ-sciaGyOcTlTROLVKbivyVYZ=s0)
 
-**❓ Question:** 
+**❓ Question:**
 
-> Can the button also be styled? 
+> Can the button also be styled?
 
-**🤓 Answer:** 
+**🤓 Answer:**
 
 > YES, all is possible with `CSS`, try changing the `background-color` and `padding` size 😉
-
